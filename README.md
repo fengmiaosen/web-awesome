@@ -4,4 +4,5 @@
 # 页面效果
 
 * 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/)
-* 
+  * 多种页面加载效果可供选择
+
