@@ -8,3 +8,8 @@
 
 * CSS3D反转特效 [adobe](http://adobe.v404.cn/adobe/)
 
+# 前端工具
+
+* 在线PPT制作 [spectacle](http://formidable.com/open-source/spectacle/)
+ * 基于React基础库使用JSX语法来编写在线演示PPT，并能导出为PDF文档
+
