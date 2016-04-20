@@ -15,3 +15,5 @@
 * 在线PPT制作 [spectacle](http://formidable.com/open-source/spectacle/)
  * 基于React基础库使用JSX语法来编写在线演示PPT，并能导出为PDF文档
 
+# 娱乐工具
+ * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
