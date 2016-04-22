@@ -17,3 +17,7 @@
 
 # 娱乐工具
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
+
+# 页面布局
+ # GoldenLayout[golden-layout](https://golden-layout.com/)
+ 
