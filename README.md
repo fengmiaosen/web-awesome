@@ -9,6 +9,7 @@
 * CSS3D反转特效 [adobe](http://adobe.v404.cn/adobe/)
 
 * 交互式多层饼图 [cake-chart](https://github.com/alexkuz/cake-chart)
+* 可视化图 [caravel](https://github.com/airbnb/caravel)
 
 # 前端工具
 
