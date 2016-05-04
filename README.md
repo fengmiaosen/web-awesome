@@ -6,6 +6,8 @@
 * 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/)
   * 多种页面加载效果可供选择
 
+* 基于Canvas的加载动画 [spring-loaders](http://tympanus.net/codrops/2016/03/08/spring-loaders-rebound-canvas/)
+
 * CSS3D反转特效 [adobe](http://adobe.v404.cn/adobe/)
 
 * 交互式多层饼图 [cake-chart](https://github.com/alexkuz/cake-chart)
