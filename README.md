@@ -16,6 +16,8 @@
 
 * CSS3 关键帧动画库[bounce](https://travelitem.taobao.com/item.htm?id=35722626709&spm=a1z09.2.0.0.fepqS3&_u=t8fi6pea266)
 
+* 小型JavaScript动画库 [snabbt](http://daniel-lundin.github.io/snabbt.js)
+
 # 页面浮层
 
 * 浮层效果 [Modaal](https://github.com/humaan/Modaal)
