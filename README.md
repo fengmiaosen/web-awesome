@@ -18,6 +18,8 @@
 
 * 小型JavaScript动画库 [snabbt](http://daniel-lundin.github.io/snabbt.js)
 
+* 小型SCSS基础库 [sierra-library](http://sierra-library.github.io/)
+
 # 页面浮层
 
 * 浮层效果 [Modaal](https://github.com/humaan/Modaal)
