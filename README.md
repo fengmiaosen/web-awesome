@@ -20,6 +20,8 @@
 
 * 小型SCSS基础库 [sierra-library](http://sierra-library.github.io/)
 
+* 基于Flex布局的CSS框架库 [bulma](http://bulma.io/)
+
 # 页面浮层
 
 * 浮层效果 [Modaal](https://github.com/humaan/Modaal)
