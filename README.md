@@ -56,3 +56,7 @@
 
 # 桌面APP开发
  # [electron](http://electron.atom.io/)
+
+# 手机传感器
+ # Apple Force Touch支持 [pressure] (https://github.com/yamartino/pressure)
+ 
