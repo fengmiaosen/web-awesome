@@ -39,6 +39,8 @@
 
 * 日期时间处理 [momentjs](http://momentjs.com/)
 
+* 在线解析处理PDF文件 [pdf.js](https://github.com/mozilla/pdf.js)
+
 # 娱乐工具
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
 
