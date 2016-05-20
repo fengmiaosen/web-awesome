@@ -45,6 +45,12 @@
 
 * 在线解析处理PDF文件 [pdf.js](https://github.com/mozilla/pdf.js)
 
+# 前端开发调试
+
+ * Web开发调试工具 [AlloyLever](https://github.com/AlloyTeam/AlloyLever)
+
+ * JavaScript运行性能监测 [stats.js](https://github.com/mrdoob/stats.js)
+ 
 # 娱乐工具
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
 
