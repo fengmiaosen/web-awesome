@@ -1,6 +1,10 @@
 # glowing-succotash
 好玩的前端小玩意
 
+# 前端技术汇总
+
+# [awesome](https://www.awesomes.cn/rank?sort=trend)
+
 # 页面效果
 
 * 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/)
