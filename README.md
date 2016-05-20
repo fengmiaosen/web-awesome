@@ -3,7 +3,7 @@
 
 # 前端技术汇总
 
-# [awesome](https://www.awesomes.cn/rank?sort=trend)
+ * [awesome](https://www.awesomes.cn/rank?sort=trend)
 
 # 页面效果
 
