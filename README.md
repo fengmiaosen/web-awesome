@@ -50,6 +50,8 @@
  * Web开发调试工具 [AlloyLever](https://github.com/AlloyTeam/AlloyLever)
 
  * JavaScript运行性能监测 [stats.js](https://github.com/mrdoob/stats.js)
+
+ * webapp debug工具 [eruda](https://github.com/liriliri/eruda)
  
 # 娱乐工具
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
