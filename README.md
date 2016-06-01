@@ -7,6 +7,8 @@
 # 前端技术汇总
 
  * [awesome](https://www.awesomes.cn/rank?sort=trend)
+ 
+ * [前端学习资料大全](https://github.com/nicejade/Front-end-tutorial)
 
 # 页面效果
 
