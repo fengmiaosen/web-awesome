@@ -45,6 +45,8 @@
 
 * 在线解析处理PDF文件 [pdf.js](https://github.com/mozilla/pdf.js)
 
+* 算法可视化学习 [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
+
 # 前端开发调试
 
  * Web开发调试工具 [AlloyLever](https://github.com/AlloyTeam/AlloyLever)
