@@ -1,7 +1,8 @@
 # glowing-succotash
 好玩的前端小玩意
 
-# Github rank [查看](https://github-ranking.com/)
+# Github rank 
+ * [查看](https://github-ranking.com/)
 
 # 前端技术汇总
 
