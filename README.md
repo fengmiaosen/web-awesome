@@ -54,6 +54,9 @@
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
 
+# 前端绘图
+ * 像素图形绘制 [anypixel](https://github.com/googlecreativelab/anypixel)
+
 # 前端开发调试
 
  * Web开发调试工具 [AlloyLever](https://github.com/AlloyTeam/AlloyLever)
