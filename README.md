@@ -54,6 +54,10 @@
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
 
+# 版本管理
+
+* git的纯js实现 [gitkit.js](https://github.com/SamyPesse/gitkit-js?utm_source=nodeweekly&utm_medium=email)
+
 # 前端绘图
  * 像素图形绘制 [anypixel](https://github.com/googlecreativelab/anypixel)
 
