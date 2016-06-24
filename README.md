@@ -1,5 +1,6 @@
-# glowing-succotash
-好玩的前端小玩意
+# web-awesome
+
+> 好玩的前端小玩意
 
 # Github rank 
  * [查看](https://github-ranking.com/)
