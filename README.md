@@ -32,6 +32,8 @@
 
 * 基于Flex布局的CSS框架库 [bulma](http://bulma.io/)
 
+* javascript动画库 [anim](https://github.com/juliangarnier/anime)
+
 # 页面浮层
 
 * 浮层效果 [Modaal](https://github.com/humaan/Modaal)
