@@ -1,6 +1,8 @@
 # web-awesome
 
 > 好玩的前端小玩意
+> 通过个人主页的二级域名访问 http://fengmiaosen.github.io/web-awesome/
+
 
 # Github rank 
  * [查看](https://github-ranking.com/)
