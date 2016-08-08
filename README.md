@@ -76,6 +76,8 @@
 
 # 前端绘图
  * 像素图形绘制 [anypixel](https://github.com/googlecreativelab/anypixel)
+ 
+ * SVG 进度条 [progressbar](https://kimmobrunfeldt.github.io/progressbar.js/)
 
 # 前端开发调试
 
