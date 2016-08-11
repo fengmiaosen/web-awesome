@@ -87,6 +87,7 @@
 
  * webapp debug工具 [eruda](https://github.com/liriliri/eruda)
  
+ * 移动设备外框 [devices.css](https://github.com/marvelapp/devices.css)
 # 娱乐工具
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
 
