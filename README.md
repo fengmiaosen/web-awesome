@@ -37,6 +37,8 @@
 
 * javascript动画库 [anim](https://github.com/juliangarnier/anime)
 
+* 侧栏划出效果 [Snap](https://github.com/jakiestfu/Snap.js/)
+
 # 前端UI框架
 
 * 基于Vue和WeUI的组件库 [vux](https://vuxjs.gitbooks.io/vux/content/)
