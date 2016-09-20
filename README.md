@@ -31,10 +31,6 @@
 
 * 小型JavaScript动画库 [snabbt](http://daniel-lundin.github.io/snabbt.js)
 
-* 小型SCSS基础库 [sierra-library](http://sierra-library.github.io/)
-
-* 基于Flex布局的CSS框架库 [bulma](http://bulma.io/)
-
 * javascript动画库 [anim](https://github.com/juliangarnier/anime)
 
 * 侧栏划出效果 [Snap](https://github.com/jakiestfu/Snap.js/)
@@ -48,6 +44,10 @@
 # CSS框架
 
 * 前端向 10+ 值得前端开发者关注的优秀 CSS 框架 [css框架](http://gold.xitu.io/entry/577a7c8c165abd0054c2e2f6)
+
+* 小型SCSS基础库 [sierra-library](http://sierra-library.github.io/)
+
+* 基于Flex布局的CSS框架库 [bulma](http://bulma.io/)
 
 * Pure.css [pure.css](http://purecss.io/)
 
