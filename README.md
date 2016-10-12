@@ -41,7 +41,7 @@
 
 * 微信官方UI库 [WeUI](https://github.com/weui/weui)
 
-* Collection best of Web Demos[Collection best of Web Demos](https://github.com/airen/DemoHouse)
+* 纯CSS UI界面集合 [Collection best of Web Demos](https://github.com/airen/DemoHouse)
 
 # CSS框架
 
