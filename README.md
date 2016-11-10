@@ -16,6 +16,8 @@
 
 # 页面效果
 
+* codepen优秀代码demo集合 [code](http://codepen.io/collection/nMgKxJ/)
+
 * 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/)
   * 多种页面加载效果可供选择
 
@@ -102,6 +104,7 @@
  * webapp debug工具 [eruda](https://github.com/liriliri/eruda)
  
  * 移动设备外框 [devices.css](https://github.com/marvelapp/devices.css)
+
 # 娱乐工具
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
 
@@ -122,4 +125,5 @@
 
 # 手机传感器
  # Apple Force Touch支持 [pressure] (https://github.com/yamartino/pressure)
+ 
  
