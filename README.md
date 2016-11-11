@@ -41,6 +41,8 @@
 
 * 提交按钮动画集合库 [ladda](http://lab.hakim.se/ladda/)
 
+* JavaScript动画库（含svg）[dynamicsjs](http://dynamicsjs.com/)
+
 # 前端UI框架
 
 * 基于Vue和WeUI的微信风格组件库 [vux](https://vuxjs.gitbooks.io/vux/content/)
