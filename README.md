@@ -43,6 +43,8 @@
 
 * JavaScript动画库（含svg）[dynamicsjs](http://dynamicsjs.com/)
 
+* Input格式控制基础库 [cleave.js](https://github.com/nosir/cleave.js/)
+
 # 前端UI框架
 
 * 基于Vue和WeUI的微信风格组件库 [vux](https://vuxjs.gitbooks.io/vux/content/)
