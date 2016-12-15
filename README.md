@@ -14,6 +14,10 @@
  * [HTML](https://github.com/trending/html?since=daily)
  * [CSS](https://github.com/trending/css?since=daily)
  
+# js框架
+
+ * [小型js模块加载器 loadjs](https://github.com/muicss/loadjs)
+ 
 # 前端技术汇总
 
  * [awesome](https://www.awesomes.cn/rank?sort=trend)
