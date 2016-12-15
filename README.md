@@ -7,7 +7,13 @@
 
 # Github rank 
  * [查看](https://github-ranking.com/)
+ 
+# Github trending排行榜 
 
+ * [JavaScript](https://github.com/trending/javascript?since=daily)
+ * [HTML](https://github.com/trending/html?since=daily)
+ * [CSS](https://github.com/trending/css?since=daily)
+ 
 # 前端技术汇总
 
  * [awesome](https://www.awesomes.cn/rank?sort=trend)
