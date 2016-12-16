@@ -17,6 +17,7 @@
 # js框架
 
  * [小型js模块加载器 loadjs](https://github.com/muicss/loadjs)
+ * [模块化的日期函数库 date-fns](https://github.com/date-fns/date-fns?utm_source=nodeweekly&utm_medium=email)
  
 # 前端技术汇总
 
