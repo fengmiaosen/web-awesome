@@ -56,6 +56,8 @@
 
 * Input格式控制基础库 [cleave.js](https://github.com/nosir/cleave.js/)
 
+* JavaScript粒子特效基础库 [particles.js](https://github.com/VincentGarreau/particles.js/)
+
 # 前端UI框架
 
 * 基于Vue和WeUI的微信风格组件库 [vux](https://vuxjs.gitbooks.io/vux/content/)
