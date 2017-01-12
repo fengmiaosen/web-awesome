@@ -69,6 +69,8 @@
 
 * 纯CSS UI界面集合 [Collection best of Web Demos](https://github.com/airen/DemoHouse)
 
+* 轻量级视差滚动基础库[rellax](https://github.com/dixonandmoe/rellax?utm_source=CSS-Weekly&utm_campaign=Issue-247&utm_medium=email)
+
 # CSS框架
 
 * 前端向 10+ 值得前端开发者关注的优秀 CSS 框架 [css框架](http://gold.xitu.io/entry/577a7c8c165abd0054c2e2f6)
