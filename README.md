@@ -59,11 +59,14 @@
 * JavaScript粒子特效基础库 [particles.js](https://github.com/VincentGarreau/particles.js/)
 
 * 纯CSS实现各种按钮效果 [bttn.surge](https://bttn.surge.sh/)
+
 # 前端UI框架
 
-* 基于Vue和WeUI的微信风格组件库 [vux](https://vuxjs.gitbooks.io/vux/content/)
+* 基于Vue和WeUI的微信风格组件库 [vux](https://github.com/airyland/vux)
 
-* 基于Vue的饿了么团队开发的组件库 [Mint UI](https://github.com/ElemeFE/mint-ui)
+* 基于Vue的饿了么团队开发的移动端组件库 [Mint UI](https://github.com/ElemeFE/mint-ui)
+
+* 基于Vue的饿了么团队开发的PC端组件库[element](http://element.eleme.io/#/zh-CN)
 
 * 微信官方UI库 [WeUI](https://github.com/weui/weui)
 
