@@ -68,6 +68,8 @@
 
 * 基于Vue的饿了么团队开发的PC端组件库[element](http://element.eleme.io/#/zh-CN)
 
+* 基于Vue的高德地图组件[vue-amap](https://github.com/ElemeFE/vue-amap)
+
 * 微信官方UI库 [WeUI](https://github.com/weui/weui)
 
 * 纯CSS UI界面集合 [Collection best of Web Demos](https://github.com/airen/DemoHouse)
