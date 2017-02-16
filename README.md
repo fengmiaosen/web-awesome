@@ -110,11 +110,11 @@
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
 
-* 使用node来操作git[nodegit](https://github.com/nodegit/nodegit)
-
 # 版本管理
 
 * git的纯js实现 [gitkit.js](https://github.com/SamyPesse/gitkit-js?utm_source=nodeweekly&utm_medium=email)
+
+* 使用node来操作git [nodegit](https://github.com/nodegit/nodegit)
 
 # 前端绘图
  * 像素图形绘制 [anypixel](https://github.com/googlecreativelab/anypixel)
