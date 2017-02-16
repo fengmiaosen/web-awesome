@@ -30,6 +30,7 @@
 * codepen优秀代码demo集合 [code](http://codepen.io/collection/nMgKxJ/)
 
 * 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/)
+  
   * 多种页面加载效果可供选择
 
 * 基于Canvas的加载动画 [spring-loaders](http://tympanus.net/codrops/2016/03/08/spring-loaders-rebound-canvas/)
@@ -108,6 +109,8 @@
 * 算法可视化学习 [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
+
+* 使用node来操作git[nodegit](https://github.com/nodegit/nodegit)
 
 # 版本管理
 
