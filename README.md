@@ -110,6 +110,8 @@
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
 
+* 网站文档生成框架 [docsify](https://docsify.js.org/#/zh-cn/quickstart)
+
 # 版本管理
 
 * git的纯js实现 [gitkit.js](https://github.com/SamyPesse/gitkit-js?utm_source=nodeweekly&utm_medium=email)
@@ -137,21 +139,21 @@
  * 键盘播放Are you ok歌曲 [are-you-ok](https://github.com/llh911001/are-you-ok)
 
 # 页面布局
- # [golden-layout](https://golden-layout.com/)
+ * [golden-layout](https://golden-layout.com/)
  
 # 虚拟现实（VR）
  # [A-Frame](https://aframe.io/)
  
 # 开源地图
- # [leafletjs](http://leafletjs.com/index.html)
+ * [leafletjs](http://leafletjs.com/index.html)
 
 # 网页字体
- # [字蛛](http://font-spider.org/)
+ * [字蛛](http://font-spider.org/)
 
 # 桌面APP开发
- # 基于JavaScript的桌面app开发 [electron](http://electron.atom.io/)
+ * 基于JavaScript的桌面app开发 [electron](http://electron.atom.io/)
 
 # 手机传感器
- # Apple Force Touch支持 [pressure] (https://github.com/yamartino/pressure)
+ * Apple Force Touch支持 [pressure] (https://github.com/yamartino/pressure)
  
  
