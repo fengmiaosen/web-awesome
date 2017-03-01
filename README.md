@@ -122,12 +122,15 @@
 * 使用node来操作git [nodegit](https://github.com/nodegit/nodegit)
 
 # 前端绘图
+
  * 像素图形绘制 [anypixel](https://github.com/googlecreativelab/anypixel)
  
  * SVG 进度条 [progressbar](https://kimmobrunfeldt.github.io/progressbar.js/)
  
  * 刮刮卡刮奖效果 [wScratchPad](https://github.com/websanova/wScratchPad)
-
+ 
+ * HTML生成canvas导出图片 [rasterizeHTML](https://github.com/cburgmer/rasterizeHTML.js)
+ 
 # 前端开发调试
 
  * Web开发调试工具 [AlloyLever](https://github.com/AlloyTeam/AlloyLever)
