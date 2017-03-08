@@ -113,7 +113,10 @@
 # 文档管理
 
 * 网站文档生成框架 [docsify](https://docsify.js.org/#/zh-cn/quickstart)
+
 * 快速搭建文档 [docute](https://docute.js.org/#/home?id=introduction)
+
+* API描述语言 [api-blueprint](https://github.com/apiaryio/api-blueprint/)
 
 # 版本管理
 
@@ -162,4 +165,8 @@
 # 手机传感器
  * Apple Force Touch支持 [pressure] (https://github.com/yamartino/pressure)
  
- 
+# NodeJs web框架
+  
+  * 基于NodeJs的REST API开发框架 [node-restify](https://github.com/restify/node-restify)
+
+
