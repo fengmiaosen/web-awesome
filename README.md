@@ -77,6 +77,8 @@
 
 * 轻量级视差滚动基础库[rellax](https://github.com/dixonandmoe/rellax?utm_source=CSS-Weekly&utm_campaign=Issue-247&utm_medium=email)
 
+* A lightweight collection of essential UI components written with Vue and inspired by Material Design [Keen-UI](https://github.com/JosephusPaye/Keen-UI)
+
 # CSS框架
 
 * 前端向 10+ 值得前端开发者关注的优秀 CSS 框架 [css框架](http://gold.xitu.io/entry/577a7c8c165abd0054c2e2f6)
