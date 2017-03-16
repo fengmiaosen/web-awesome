@@ -72,6 +72,8 @@
 
 * 基于Vue的高德地图组件[vue-amap](https://github.com/ElemeFE/vue-amap)
 
+* 基于react的高德地图组件 [react-amap](https://github.com/ElemeFE/react-amap)
+
 * 微信官方UI库 [WeUI](https://github.com/weui/weui)
 
 * 纯CSS UI界面集合 [Collection best of Web Demos](https://github.com/airen/DemoHouse)
