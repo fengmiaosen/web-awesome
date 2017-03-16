@@ -173,6 +173,6 @@
 # NodeJS web框架
   
   * 基于NodeJs的REST API开发框架 [node-restify](https://github.com/restify/node-restify)
-  * 基于Vue的服务端渲染应用框架 [nuxt.js](https://github.com/nuxt/nuxt.js)
+  * 基于Vue的服务端渲染应用框架 [nuxt.js](https://github.com/nuxt/nuxt.js)
   * 基于react的服务端渲染应用框架 [next.js](https://github.com/zeit/next.js)
   
