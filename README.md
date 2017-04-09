@@ -137,6 +137,10 @@
  
  * HTML生成canvas导出图片 [rasterizeHTML](https://github.com/cburgmer/rasterizeHTML.js)
  
+# 物理引擎
+ 
+ * box2d [box2d](http://box2d.org/documentation/)
+ 
  * 2D JavaScript物理引擎 [planck](https://github.com/shakiba/planck.js)
  
 # 前端开发调试
