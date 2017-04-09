@@ -30,9 +30,7 @@
 
 * codepen优秀代码demo集合 [code](http://codepen.io/collection/nMgKxJ/)
 
-* 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/)
-  
-  * 多种页面加载效果可供选择
+* 页面加载库 [PACE](http://github.hubspot.com/pace/docs/welcome/) 多种页面加载效果可供选择
 
 * 基于Canvas的加载动画 [spring-loaders](http://tympanus.net/codrops/2016/03/08/spring-loaders-rebound-canvas/)
 
@@ -138,6 +136,8 @@
  * 刮刮卡刮奖效果 [wScratchPad](https://github.com/websanova/wScratchPad)
  
  * HTML生成canvas导出图片 [rasterizeHTML](https://github.com/cburgmer/rasterizeHTML.js)
+ 
+ * 2D JavaScript物理引擎 [planck](https://github.com/shakiba/planck.js)
  
 # 前端开发调试
 
