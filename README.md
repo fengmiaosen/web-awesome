@@ -62,6 +62,8 @@
 
 # 前端UI框架
 
+* [VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
+
 * 基于Vue和WeUI的微信风格组件库 [vux](https://github.com/airyland/vux)
 
 * 基于Vue的饿了么团队开发的移动端组件库 [Mint UI](https://github.com/ElemeFE/mint-ui)
