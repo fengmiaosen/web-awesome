@@ -15,10 +15,11 @@
  * [HTML](https://github.com/trending/html?since=daily)
  * [CSS](https://github.com/trending/css?since=daily)
  
-# js框架
+# js功能框架
 
  * [小型js模块加载器 loadjs](https://github.com/muicss/loadjs)
  * [模块化的日期函数库 date-fns](https://github.com/date-fns/date-fns?utm_source=nodeweekly&utm_medium=email)
+ * 基于Promise实现的状态机 [fsm-as-promised](https://github.com/vstirbu/fsm-as-promised?utm_source=javascriptweekly&utm_medium=email)
  
 # 前端技术汇总
 
@@ -99,7 +100,8 @@
 # 前端工具
 
 * 在线PPT制作 [spectacle](http://formidable.com/open-source/spectacle/)
- * 基于React基础库使用JSX语法来编写在线演示PPT，并能导出为PDF文档
+
+* 基于React基础库使用JSX语法来编写在线演示PPT，并能导出为PDF文档
 
 * 在线内容编辑 [substance](https://github.com/substance/substance)
 
