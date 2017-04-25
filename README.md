@@ -147,6 +147,8 @@
  
  * 2D JavaScript物理引擎 [planck](https://github.com/shakiba/planck.js)
  
+ * 2D 物理引擎 [Matter.js](http://brm.io/matter-js/)
+ 
 # 前端开发调试
 
  * Web开发调试工具 [AlloyLever](https://github.com/AlloyTeam/AlloyLever)
