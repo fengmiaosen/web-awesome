@@ -166,7 +166,8 @@
  * [golden-layout](https://golden-layout.com/)
  
 # 虚拟现实（VR）
- # [A-Frame](https://aframe.io/)
+ 
+ * [A-Frame](https://aframe.io/)
  
 # 开源地图
  * [leafletjs](http://leafletjs.com/index.html)
@@ -186,5 +187,5 @@
   * 基于Vue的服务端渲染应用框架 [nuxt.js](https://github.com/nuxt/nuxt.js)
   * 基于react的服务端渲染应用框架 [next.js](https://github.com/zeit/next.js)
   * 基于ssh2的纯js实现scp [node-scp](https://github.com/spmjs/node-scp2)
-  
+  * electron开发完整框架 [electron-forge](https://github.com/electron-userland/electron-forge?utm_source=nodeweekly&utm_medium=email)
   
