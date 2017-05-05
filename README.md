@@ -71,10 +71,6 @@
 
 * 基于Vue的饿了么团队开发的PC端组件库[element](http://element.eleme.io/#/zh-CN)
 
-* 基于Vue的高德地图组件[vue-amap](https://github.com/ElemeFE/vue-amap)
-
-* 基于react的高德地图组件 [react-amap](https://github.com/ElemeFE/react-amap)
-
 * 微信官方UI库 [WeUI](https://github.com/weui/weui)
 
 * 纯CSS UI界面集合 [Collection best of Web Demos](https://github.com/airen/DemoHouse)
@@ -82,6 +78,14 @@
 * 轻量级视差滚动基础库[rellax](https://github.com/dixonandmoe/rellax?utm_source=CSS-Weekly&utm_campaign=Issue-247&utm_medium=email)
 
 * A lightweight collection of essential UI components written with Vue and inspired by Material Design [Keen-UI](https://github.com/JosephusPaye/Keen-UI)
+
+# 地图组件
+
+* 基于Vue的百度地图组件封装 [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)
+
+* 基于Vue的高德地图组件[vue-amap](https://github.com/ElemeFE/vue-amap)
+
+* 基于react的高德地图组件 [react-amap](https://github.com/ElemeFE/react-amap)
 
 # CSS框架
 
