@@ -121,6 +121,12 @@
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
 
+# 代码编辑器框架
+
+* [monaco-editor](https://github.com/Microsoft/monaco-editor)
+* [react-monaco-editor](https://github.com/superRaytin/react-monaco-editor)
+
+
 # 文档管理
 
 * 网站文档生成框架 [docsify](https://docsify.js.org/#/zh-cn/quickstart)
