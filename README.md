@@ -79,6 +79,8 @@
 
 * A lightweight collection of essential UI components written with Vue and inspired by Material Design [Keen-UI](https://github.com/JosephusPaye/Keen-UI)
 
+* 微软出品的UI设计组件 [React-UWP](https://www.react-uwp.com/)
+
 # 地图组件
 
 * 基于Vue的百度地图组件封装 [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)
