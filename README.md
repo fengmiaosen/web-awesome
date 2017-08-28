@@ -20,6 +20,7 @@
  * [小型js模块加载器 loadjs](https://github.com/muicss/loadjs)
  * [模块化的日期函数库 date-fns](https://github.com/date-fns/date-fns?utm_source=nodeweekly&utm_medium=email)
  * 基于Promise实现的状态机 [fsm-as-promised](https://github.com/vstirbu/fsm-as-promised?utm_source=javascriptweekly&utm_medium=email)
+ * 腾讯推出的H5页面首屏秒开框架 [VasSonic](https://github.com/Tencent/VasSonic)
  
 # 前端技术汇总
 
