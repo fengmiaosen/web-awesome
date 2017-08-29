@@ -82,6 +82,8 @@
 
 * 微软出品的UI设计组件 [React-UWP](https://www.react-uwp.com/)
 
+* 替代原生js的alert的组件 [sweetAlert](https://github.com/t4t5/sweetalert)
+
 # 地图组件
 
 * 基于Vue的百度地图组件封装 [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)
