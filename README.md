@@ -128,6 +128,7 @@
 
 * 日期时间处理 [momentjs](http://momentjs.com/)
 * [moment-range](https://github.com/rotaready/moment-range)
+* 现代模块化日期处理库[date-fns](https://date-fns.org/)
 
 # 代码编辑器框架
 
