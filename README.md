@@ -118,13 +118,16 @@
 
 * HTML预编译库 [typeset](https://github.com/davidmerfield/typeset)
 
-* 日期时间处理 [momentjs](http://momentjs.com/)
-
 * 在线解析处理PDF文件 [pdf.js](https://github.com/mozilla/pdf.js)
 
 * 算法可视化学习 [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)
 
 * 前端SASS组件文档生成管理 [atomic](https://github.com/nickberens360/atomic-docs)
+
+# 日期处理
+
+* 日期时间处理 [momentjs](http://momentjs.com/)
+* [moment-range](https://github.com/rotaready/moment-range)
 
 # 代码编辑器框架
 
